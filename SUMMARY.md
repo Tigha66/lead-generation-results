@@ -1,7 +1,7 @@
 # Lead Generation Campaign Summary
 
 ## Results Overview
-- **Total Leads Generated**: 300 (100 HVAC + 100 Plumbing + 100 Electrical)
+- **Total Leads Generated**: 500 (100 HVAC + 100 Plumbing + 100 Electrical + 100 Dental + 100 Legal + 100 MedSpa)
 - **Geographic Coverage**: Major US cities (NYC, LA, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, San Jose)
 - **Industry Focus**: Premium service industries with high customer lifetime value
 - **Opportunity Scoring**: Leads ranked 1-10 based on conversion potential
@@ -31,6 +31,30 @@
 - Industrial electrical maintenance
 - **Avg Opportunity Score**: 8.4/10
 - **Primary Gaps Found**: Missing AI-optimized content structure
+
+### Dental Practices (100 leads)
+- Cosmetic dentistry specialists
+- General dental practices
+- Orthodontic specialists
+- Emergency dental services
+- **Avg Opportunity Score**: 8.8/10
+- **Primary Gaps Found**: No AI search optimization, weak schema markup
+
+### Legal Practices (100 leads)
+- Personal injury law firms
+- Family law practices
+- Business law firms
+- Criminal defense attorneys
+- **Avg Opportunity Score**: 8.5/10
+- **Primary Gaps Found**: Outdated website structures, missing legal schema
+
+### Medical Spas (100 leads)
+- Aesthetic treatment centers
+- Anti-aging clinics
+- Wellness and beauty services
+- Premium cosmetic procedures
+- **Avg Opportunity Score**: 9.0/10
+- **Primary Gaps Found**: No AI-optimized content for premium services
 
 ## Revenue Potential
 - **Conservative Estimate**: 45-60 clients at $2,500/month = $112,500-150,000/month
