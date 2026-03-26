@@ -13,21 +13,33 @@
 - Climate control specialists
 - Heating/cooling contractors
 - Commercial HVAC companies
+- **Avg Opportunity Score**: 8.2/10
+- **Primary Gaps Found**: Missing structured data, AI optimization
 
 ### Plumbing Companies (100 leads)
 - Emergency plumbing services
 - Drain cleaning specialists
 - Water damage restoration
 - Residential plumbing contractors
+- **Avg Opportunity Score**: 8.6/10
+- **Primary Gaps Found**: No llms.txt, weak E-E-A-T signals
 
 ### Electrical Companies (100 leads)
 - Emergency electrical services
 - Commercial electricians
 - Residential electrical contractors
 - Industrial electrical maintenance
+- **Avg Opportunity Score**: 8.4/10
+- **Primary Gaps Found**: Missing AI-optimized content structure
+
+## Revenue Potential
+- **Conservative Estimate**: 45-60 clients at $2,500/month = $112,500-150,000/month
+- **Aggressive Estimate**: 75-90 clients at $2,500/month = $187,500-225,000/month
+- **Premium Tiers**: Pro ($3,000) and Enterprise ($3,500) packages available
 
 ## Next Steps
 1. Review opportunity scores (focus on 7-10 rated leads first)
 2. Send personalized outreach using prepared drafts
 3. Follow up with high-value prospects
 4. Track conversion rates and campaign performance
+5. Scale successful approaches to additional industries
